@@ -1,0 +1,32 @@
+{
+  "name": "node-artifex",
+  "version": "0.1.0",
+  "description": "A small implementation of node workers. Just another aproach I guess ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_artifex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jail1/Node-Artifex.git"
+  },
+  "keywords": [
+    "Node",
+    "Artifex",
+    "Artifex",
+    "Web",
+    "Worker",
+    "Nodejs",
+    "node",
+    "web",
+    "workers",
+    "node",
+    "workers"
+  ],
+  "author": "Iacob Silviu Iulian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jail1/Node-Artifex/issues"
+  },
+  "homepage": "https://github.com/jail1/Node-Artifex#readme"
+}
