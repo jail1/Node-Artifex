@@ -37,6 +37,6 @@
 		this.activeCalls	= 0;
 	}
 
-	
+	// # Add the meat to the Ranch function under it's prototype.
 
 }).call(this);
