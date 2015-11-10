@@ -4,7 +4,7 @@
 	// # Perhaps the most important function n the childProcess api (fork).
 
 	const childProcess = require('child_process'),
-		  childModule  = require.resolve('./child');
+		  childModule  = require.resolve('./child_process');
 
   	// # Refers to the internal child_process.fork implementation.
 

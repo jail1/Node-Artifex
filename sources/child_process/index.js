@@ -9,6 +9,7 @@
 	// # Messages sent by .send(message, [sendHandle]) are obtained using the message event.
 
 	// # Keep this here.
+
 	var $module; 
 
 	function handle(data) {
@@ -20,6 +21,9 @@
 			args 			= data.args,
 			callback 		= function() {
 				var _args = Array.prototype.slice.call(arguments);
+
+				console.warn('Vash sais : arguments', arguments);
+				console.warn('Vash sais : args', args);
 
 				// # Remember when I said that the error should be caught by something ? 
 				// # This is that something.
